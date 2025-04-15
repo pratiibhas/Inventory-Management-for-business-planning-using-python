@@ -2,6 +2,7 @@
 
 Inventory is a necessary evil. 
 
+Dataset used: [(https://www.kaggle.com/competitions/m5-forecasting-accuracy)]
 ## 📘 Overview
 It refers to all the goods a business holds, including raw materials, work-in-progress, and finished products, for sale or use in production. Holding an inventory is expensive but not keepig is not an option in many cases. 
 
