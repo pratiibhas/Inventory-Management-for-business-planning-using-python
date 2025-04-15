@@ -32,6 +32,11 @@ Reorder Point= Average Demand During * Lead Time + Safety Stock
 -     B-items: Moderate-value, moderate-quantity items — less tightly controlled.
 
 -     C-items: Low-value, high-quantity items — simplest controls.
+- 
+### Replenishment policies are based on metrices such as:
+- CSL
+- IFR Inventory fill rate 
+
 
 ### 🛠 Project Scope
 In this project, we:
@@ -46,13 +51,32 @@ Calculated:
 
 This is a granular analysis, done at the item level. It can be further expanded region-wise or store-wise to get deeper insights.
 
+## 📦 Replenishment Policies
+Replenishment policies help determine when and how much to reorder based on demand uncertainty, service levels, and business priorities.
+
+### 🔢 Common Metrics Used:
+- **Cycle Service Level (CSL)**:
+CSL represents the probability that demand during the lead time will be fully met without a stockout.
+For example, a CSL of 95% means there is a 95% chance that no stockout will occur during the lead time.
+
+- **Inventory Fill Rate (IFR)**:
+IFR refers to the percentage of total demand that is fulfilled from available inventory, including partial shipments.
+It answers the question: What fraction of demand was actually met without delay?
+
+## 📌 Application in This Project
+In this project, we used a 95% Cycle Service Level (CSL) to calculate the reorder point, meaning we aim to meet demand during the lead time in 95 out of 100 cycles.
+
+This level of service ensures high product availability while keeping inventory costs reasonable — striking a balance between customer satisfaction and holding costs.
+
+
+
 Inspired by this excellent Medium article:
-📖 [Inventory Management for Retail – Stochastic Demand](https://medium.com/data-science/inventory-management-for-retail-stochastic-demand-3020a43d1c14.
-)
+📖 [Inventory Management for Retail – Stochastic Demand](https://medium.com/data-science/inventory-management-for-retail-stochastic-demand-3020a43d1c14)
 
 ##  Future Enhancements
 Expand analysis to include:
 - Region-wise insights
 - Store-level optimization 
-- Integrate forecast models for dynamic reorder points
+- Integrate forecast models for dynamic reorder points.
+  
  
