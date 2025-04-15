@@ -9,7 +9,7 @@ Hence, inventory management is crucial in business processes.It is the business 
 For many businesses, such as manufacturers and retailers, inventory is one of their most valuable assets, enabling them to meet customer demand and make money. But inventory can also be a drain on profitability if not carefully managed. Holding on to too much inventory carries significant costs, and there is also the risk of spoilage, theft, and damage to factor into the equation. The goal of effective inventory management is to achieve a just-right level to avoid overstocking, shortages, or stockouts, all of which can be extremely costly to a business.
 
 Various inventory models:
-![Alt text]([https://example.com/path/to/image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.effivity.com%2Fblog%2Ftypes-of-inventory-control&psig=AOvVaw3XiwCQliV3nsrAdZNgp-yS&ust=1744779393298000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCAyo2g2YwDFQAAAAAdAAAAABAE))
+![Alt text]((https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.effivity.com%2Fblog%2Ftypes-of-inventory-control&psig=AOvVaw3XiwCQliV3nsrAdZNgp-yS&ust=1744779393298000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCAyo2g2YwDFQAAAAAdAAAAABAE))
 
 
 
