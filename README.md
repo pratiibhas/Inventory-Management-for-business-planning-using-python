@@ -1,10 +1,11 @@
 # Inventory-Management-for-business-planning-using-python
 
 Inventory is a necessary evil. 
+
 ## 📘 Overview
 It refers to all the goods a business holds, including raw materials, work-in-progress, and finished products, for sale or use in production. Holding an inventory is expensive but not keepig is not an option in many cases. 
 
-### 🎯 Why Inventory Management Matters
+## 🎯 Why Inventory Management Matters
 An organization’s inventory, is central to business operations and a primary source of revenue generation. Inventory can be classified in numerous ways, and how well it’s managed directly affects an organization’s order fulfillment capabilities.
 For example, in keeping track of raw materials, safety stock, finished goods, or even packing materials, businesses are collecting crucial data that should inform future purchasing and fulfillment operations. Understanding purchasing trends and the rates at which items sell determines how often companies need to restock inventory and which items are prioritized for repurchase. Having this information on hand can improve customer relations, cash flow, and profitability while also decreasing the amount of money lost to wasted inventory, stockouts, and restocking delays.
 
@@ -34,17 +35,13 @@ Reorder Point= Average Demand During * Lead Time + Safety Stock
 
 ### 🛠 Project Scope
 In this project, we:
-
 Observed sales data from stores
 
 Calculated:
 
 - Reorder Points
-
 - Safety Stock
-
 - Identified high-risk items
-
 - Performed ABC Analysis to prioritize inventory focus
 
 This is a granular analysis, done at the item level. It can be further expanded region-wise or store-wise to get deeper insights.
@@ -53,4 +50,9 @@ Inspired by this excellent Medium article:
 📖 [Inventory Management for Retail – Stochastic Demand](https://medium.com/data-science/inventory-management-for-retail-stochastic-demand-3020a43d1c14.
 )
 
+##  Future Enhancements
+Expand analysis to include:
+- Region-wise insights
+- Store-level optimization 
+- Integrate forecast models for dynamic reorder points
  
